@@ -35,7 +35,7 @@ const ProfComponent = () => {
                 </a>
               </span>
               <span>
-                <a href="https://linkedin.com/joiner-david">
+                <a href="https://linkedin.com/in/joiner-david">
                   <FaLinkedinIn />
                 </a>
               </span>

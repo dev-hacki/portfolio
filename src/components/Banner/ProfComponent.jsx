@@ -1,7 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { AiOutlineInstagram } from "react-icons/ai";
-import { GiEarthAmerica } from "react-icons/gi";
+import { AiOutlineFacebook,  AiOutlineTwitter } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { Slide } from "react-awesome-reveal";
 
@@ -13,29 +12,30 @@ const ProfComponent = () => {
           <h4>
             Hello <span className="green">I'am</span>
           </h4>
-          <h1 className="green">Milad Amiri</h1>
-          <h3>UX/UI Designer and graphic designer</h3>
+          <h1 className="green">Joiner Cantillo</h1>
+          <h3>Lead Full Stack Web3 Engineer | Professional AI Data Scientist | Proficient Software Consaltant | Technology-Oriented Approach for Business Success | Passionate about Emerging Technologies
+</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores,
-            iusto. Adipisci in qui officia provident tenetur sequi, deserunt
-            corporis quos?
+          A proficient blockchain developer with 8 years of experience as IT Professional, interested in contributing expertise in web and blockchain development. Deeply knowledgeable in distributed ledger, blockchain security, blockchain architecture patterns, and different blockchain standards and ecosystems. <br/> 
+          Experienced working with various machine learning algorithms and tools to analyze large datasets and extract valuable insights. I am proficient in Python, TensorFlow, and other AI data analysis tools and frameworks, and I am always exploring new ways to leverage AI to solve complex problems in various industries.
+
           </p>
           <button>Let's talk</button>
           <Social>
             <p>Check out my</p>
             <div className="social-icons">
               <span>
-                <a href="/">
-                  <AiOutlineInstagram />
+                <a href="https://www.facebook.com/profile.php?id=100093029326752">
+                  <AiOutlineFacebook />
                 </a>
               </span>
               <span>
-                <a href="/">
-                  <GiEarthAmerica />
+                <a href="https://twitter.com/CantilloJo54982">
+                  <AiOutlineTwitter />
                 </a>
               </span>
               <span>
-                <a href="/">
+                <a href="https://linkedin.com/joiner-david">
                   <FaLinkedinIn />
                 </a>
               </span>
@@ -46,7 +46,7 @@ const ProfComponent = () => {
       <Slide direction="right">
         <Profile>
           <img
-            src="https://res.cloudinary.com/ghazni/image/upload/v1659082282/Yt-portfolio/Untitled-1_drcspz.png"
+            src="./pics/Joiner1.png"
             alt="profile"
           />
         </Profile>

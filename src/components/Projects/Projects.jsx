@@ -8,8 +8,7 @@ const Projects = () => {
     <Container id='project'>
         <Zoom>
             <h1>Recent <span className="green">Projects</span></h1>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto doloremque 
-            voluptate excepturi porro sed totam quis animi dolorum rerum earum.</p>
+            <p> I'm passionate about building innovative solutions that leverage the power of blockchain technology to create a more decentralized and equitable world. If you're interested in learning more about my projects or working together on a new project, please don't hesitate to reach out!</p>
         </Zoom>
         <Slide>
             <SliderComp/>

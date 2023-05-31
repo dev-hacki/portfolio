@@ -6,24 +6,28 @@ import styled from 'styled-components';
 
 let data = [
     {
-        img : "https://res.cloudinary.com/ghazni/image/upload/v1661324124/Yt-portfolio/ui5_mnvdaw.png",
-        disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eveniet iure rerum obcaecati et laborum earum!"
+        img : "./pics/project1.jpg",
+        disc : "Chegg.com is an American education technology company based in Santa Clara, California."
     },
     {
-        img : "https://res.cloudinary.com/ghazni/image/upload/v1661324074/Yt-portfolio/ui4_jku3ol.png",
-        disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eveniet iure rerum obcaecati et laborum earum!"
+        img : "./pics/project2.jpg",
+        disc : "Temu (tee-moo) is an online marketplace that connects consumers with millions of sellers, manufacturers and brands around the world with the mission to empower them to live their best lives."
     },
     {
-        img : "https://res.cloudinary.com/ghazni/image/upload/v1661323981/Yt-portfolio/ui2_wtollo.png",
-        disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eveniet iure rerum obcaecati et laborum earum!"
+        img : "./pics/project3.png",
+        disc : "CertiK is Web3's leading smart contract auditor and provides a comprehensive suite of tools to secure the industry at scale."
     },
     {
-        img : "https://res.cloudinary.com/ghazni/image/upload/v1661323980/Yt-portfolio/ui3_akynn4.png",
-        disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eveniet iure rerum obcaecati et laborum earum!"
+        img : "./pics/project4.png",
+        disc : "Makiswap is a automated market maker (AMM) on HECO (Huobi Chain) that offers fast transaction time, cheap gass fees and liquidity for tokens that run on HECO"
     },
     {
-        img : "https://res.cloudinary.com/ghazni/image/upload/v1661323979/Yt-portfolio/ui1_n3uiaz.png",
-        disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eveniet iure rerum obcaecati et laborum earum!"
+        img : "./pics/project5.png",
+        disc : "Maxos uses DeFi to improve the global supply of savings and credit"
+    },
+    {
+        img : "./pics/project6.png",
+        disc : "RociFi is the on-chain credit scoring and capital-efficient DeFi lending protocol on Polygon that allows borrowers to take fixed-term fixed-rate stablecoin loans with reduced collateral while gives lenders the possibility to earn interest from depositing their assets into lending pools. "
     }
 ];
 

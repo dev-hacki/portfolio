@@ -7,36 +7,32 @@ import { Slide } from 'react-awesome-reveal';
 
 let clients = [
     {
-        name : "John Michel",
-        position : "web developer",
-        img_url : "https://t4.ftcdn.net/jpg/02/90/27/39/360_F_290273933_ukYZjDv8nqgpOBcBUo5CQyFcxAzYlZRW.jpg",
-        stars : 3,
-        disc : `Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-        Temporibus consequuntur dolores labore natus similique nemo doloribus cum accusantium adipisci maiores.`
+        name : "Andres Felipe",
+        position : "CEO | Co-founder",
+        img_url : "./pics/client1.jpg",
+        stars : 5,
+        disc : `Your expertise and dedication were crucial to the success of the Makiswap DeFi project. Thank you for your hard work!`
     },
     {
-        name : "John Michel",
-        position : "web developer",
-        img_url : "https://t4.ftcdn.net/jpg/02/90/27/39/360_F_290273933_ukYZjDv8nqgpOBcBUo5CQyFcxAzYlZRW.jpg",
+        name : "William Rodriguez",
+        position : "CTO | Marketing Lead",
+        img_url : "./pics/client2.png",
         stars : 4,
-        disc : `Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-        Temporibus consequuntur dolores labore natus similique nemo doloribus cum accusantium adipisci maiores.`
+        disc : `Thank you for your professional support and guidance on our marketing project. Your expertise was invaluable. We appreciate your efforts.`
     },
     {
-        name : "John Michel",
-        position : "web developer",
-        img_url : "https://t4.ftcdn.net/jpg/02/90/27/39/360_F_290273933_ukYZjDv8nqgpOBcBUo5CQyFcxAzYlZRW.jpg",
+        name : "Emily Johnson",
+        position : "CEO",
+        img_url : "./pics/client3.png",
         stars : 5,
-        disc : `Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-        Temporibus consequuntur dolores labore natus similique nemo doloribus cum accusantium adipisci maiores.`
+        disc : `Thank you for your kind and warm help on our project. Your support was invaluable and greatly appreciated. Looking forward to working with you again.`
     },
     {
-        name : "John Michel",
-        position : "web developer",
-        img_url : "https://t4.ftcdn.net/jpg/02/90/27/39/360_F_290273933_ukYZjDv8nqgpOBcBUo5CQyFcxAzYlZRW.jpg",
-        stars : 5,
-        disc : `Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-        Temporibus consequuntur dolores labore natus similique nemo doloribus cum accusantium adipisci maiores.`
+        name : "Abigail Davis",
+        position : "UX/UI Designer",
+        img_url : "./pics/client4.png",
+        stars : 4,
+        disc : `Thank you for your kind and valuable support on our project. Your expertise was instrumental. Looking forward to working with you again.`
     },
 ]
 var settings = {

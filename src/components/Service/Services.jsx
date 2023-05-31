@@ -19,25 +19,22 @@ const Services = () => {
         <Slide direction="left">
           <Card
             Icon={MdDesignServices}
-            title={"ui/ux designer"}
-            disc={`Lorem ipsum dolor sit amet consectetur 
-                adipisicing elit. Commodi et asperiores cum exercitationem officia rem amet minus magnam? Cum, voluptatem?`}
+            title={"Lead Full Stack Web3 Engineer"}
+            disc={`As a Lead Full Stack Web3 Engineer, I can design and develop decentralized applications using blockchain technology. Also I can architect robust and scalable systems, write efficient code, implement smart contracts, integrate APIs, and ensure high security and performance.`}
           />
         </Slide>
         <Slide direction="up">
           <Card
             Icon={FiCodesandbox}
-            title={"graphic designer"}
-            disc={`Lorem ipsum dolor sit amet consectetur 
-                adipisicing elit. Commodi et asperiores cum exercitationem officia rem amet minus magnam? Cum, voluptatem?`}
+            title={"Professional AI Data Scientist"}
+            disc={`As a Professional AI Data Scientist, I can analyze and interpret complex data using machine learning algorithms and statistical models. Also I can develop predictive models, optimize algorithms, and provide data-driven insights to drive business decisions.`}
           />
         </Slide>
         <Slide direction="right">
           <Card
             Icon={CgWebsite}
-            title={"web designer"}
-            disc={`Lorem ipsum dolor sit amet consectetur 
-                adipisicing elit. Commodi et asperiores cum exercitationem officia rem amet minus magnam? Cum, voluptatem?`}
+            title={"Proficient Software Consultant"}
+            disc={`As a Proficient Software Consultant, I can provide expert advice and guidance on software development best practices, project management, and technology solutions. Also I can assess business needs, identify opportunities for improvement, and deliver effective software solutions.`}
           />
         </Slide>
       </Cards>

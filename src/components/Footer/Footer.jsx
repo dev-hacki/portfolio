@@ -3,8 +3,8 @@ import styled from "styled-components";
 import { MdAlternateEmail } from "react-icons/md";
 import { CgProfile } from "react-icons/cg";
 import { HiOutlineMailOpen } from "react-icons/hi";
-import { AiFillGithub, AiFillLinkedin, AiOutlineArrowUp } from "react-icons/ai";
-import { BsFacebook, BsSlack } from "react-icons/bs";
+import { AiFillLinkedin, AiFillTwitterSquare, AiOutlineArrowUp } from "react-icons/ai";
+import { BsFacebook } from "react-icons/bs";
 import { FiMail, FiPhoneCall } from "react-icons/fi";
 import { Slide, Zoom, Fade } from "react-awesome-reveal";
 
@@ -26,7 +26,7 @@ const Footer = () => {
             <h1>Address:</h1>
           </Slide>
           <Slide direction="left">
-            <p>1030 Southwood Dr San Luis Obispo, California(CA), 93401</p>
+            <p> Career 9k #64-09, Barranquilla, Colombia, 080014 </p>
           </Slide>
         </div>
         <div className="links">
@@ -38,7 +38,7 @@ const Footer = () => {
               <FiPhoneCall />
             </span>
             <Slide direction="left">
-              <a href="tel:+4733378901">+47 333 78 901</a>
+              <a href="tel:+573003771370">+57 300 377 1370</a>
             </Slide>
           </div>
           <div>
@@ -48,7 +48,7 @@ const Footer = () => {
               </span>
             </Slide>
             <Slide>
-              <a href="mailto:miladamiri@gmail.com">miladamiri@gmail.com</a>
+              <a href="mailto:joinercantillo0813@gmail.com">joinercantillo0813@gmail.com</a>
             </Slide>
           </div>
         </div>
@@ -59,29 +59,22 @@ const Footer = () => {
           <div className="icons">
             <Zoom>
               <span>
-                <a href="/">
-                  <AiFillGithub />
+                <a href="https://twitter.com/CantilloJo54982">
+                  <AiFillTwitterSquare />
                 </a>
               </span>
             </Zoom>
             <Zoom>
               <span>
-                <a href="/">
+                <a href="https://linkedin.com/in/joiner-david">
                   <AiFillLinkedin />
                 </a>
               </span>
             </Zoom>
             <Zoom>
               <span>
-                <a href="/">
+                <a href="https://www.facebook.com/profile.php?id=100093029326752">
                   <BsFacebook />
-                </a>
-              </span>
-            </Zoom>
-            <Zoom>
-              <span>
-                <a href="/">
-                  <BsSlack />
                 </a>
               </span>
             </Zoom>

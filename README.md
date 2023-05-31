@@ -1,30 +1,19 @@
 
 ## Portfolio using React js and styled-components 2023
 
-<img src="https://res.cloudinary.com/ghazni/image/upload/v1678467366/portfolio_6_tg19nz.png" alt="banner"/>
+<img src="./public/about.png" alt="banner"/>
 
-## Demo
-[Demo](https://uxui-profile.netlify.app/)
-
-[Tutorial Video Link](https://youtu.be/xbyoqfwCFE8)
 
 ## Features
 
-- Animated navbar
-- Slider
-- Animation on scroll
-- Responsive
+Lead Full Stack Web3 Engineer |
+ Professional AI Data Scientist |
+  Proficient Software Consaltant |
+   Technology-Oriented Approach for Business Success |
+    Passionate about Emerging Technologies
 
 ## Description
 
-This portfolio is build using React JS, Styled-Components and react awesome reveal library. People can see the owners services, projects, clients ideas and also has a contact form for people to get in touch with. This project has a youtube video tutorial that teaches the React newbies about React Hook, React-Slick and responsive design.
+A proficient blockchain developer with 8 years of experience as IT Professional, interested in contributing expertise in web and blockchain development. Deeply knowledgeable in distributed ledger, blockchain security, blockchain architecture patterns, and different blockchain standards and ecosystems. <br/> 
+Experienced working with various machine learning algorithms and tools to analyze large datasets and extract valuable insights. I am proficient in Python, TensorFlow, and other AI data analysis tools and frameworks, and I am always exploring new ways to leverage AI to solve complex problems in various industries.
 
-Developed By Milad Amiri 2023.
-Watch more videos from me [Milad Tech](https://www.youtube.com/@miladtech2844)
-
-## Technologies 
-
-- [React JS](https://reactjs.org/docs/getting-started.html)
-- [Styled-Components](https://styled-components.com)
-- [React Slick](https://react-slick.neostack.com)
-- [React Awesome Reveal](https://react-awesome-reveal.morello.dev/)
